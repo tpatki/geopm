@@ -1,0 +1,1125 @@
+Proram start time is: 1521527557454841
+Running stencil computation for 1048576 elements...
+Partitioning data into 32 sub-regions...
+Initializing field 0 for block 0...
+Initializing field 0 for block 1...
+Initializing field 0 for block 2...
+Initializing field 0 for block 3...
+Initializing field 0 for block 4...
+Initializing field 0 for block 5...
+Initializing field 0 for block 6...
+Initializing field 0 for block 7...
+Initializing field 0 for block 8...
+Initializing field 0 for block 9...
+Initializing field 0 for block 10...
+Initializing field 0 for block 11...
+Initializing field 0 for block 12...
+Initializing field 0 for block 13...
+Initializing field 0 for block 14...
+Initializing field 0 for block 17...
+Task init_field COMPLETED SUCCESSFULLY
+Operation timeline for task init_field: ready=27772330 start=27894881 stop=200345080
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Initializing field 0 for block 18...
+Task init_field COMPLETED SUCCESSFULLY
+Operation timeline for task init_field: ready=28146926 start=28212376 stop=213420698
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Initializing field 0 for block 15...
+Task init_field COMPLETED SUCCESSFULLY
+Operation timeline for task init_field: ready=30469391 start=30580135 stop=231696478
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Initializing field 0 for block 16...
+Task init_field COMPLETED SUCCESSFULLY
+Operation timeline for task init_field: ready=34757294 start=34814569 stop=233876817
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Initializing field 0 for block 19...
+Task init_field COMPLETED SUCCESSFULLY
+Operation timeline for task init_field: ready=33135829 start=33252399 stop=234233960
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Initializing field 0 for block 20...
+Task init_field COMPLETED SUCCESSFULLY
+Operation timeline for task init_field: ready=34431186 start=34490498 stop=234668560
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Initializing field 0 for block 21...
+Task init_field COMPLETED SUCCESSFULLY
+Operation timeline for task init_field: ready=35542735 start=35585854 stop=236997327
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Initializing field 0 for block 22...
+Task init_field COMPLETED SUCCESSFULLY
+Operation timeline for task init_field: ready=33799252 start=33914031 stop=237704037
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Task init_field COMPLETED SUCCESSFULLY
+Operation timeline for task init_field: ready=28754313 start=28812155 stop=271202526
+Initializing field 0 for block 23...
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Initializing field 0 for block 24...
+Task init_field COMPLETED SUCCESSFULLY
+Operation timeline for task init_field: ready=31564389 start=31634875 stop=276829161
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Initializing field 0 for block 25...
+Task init_field COMPLETED SUCCESSFULLY
+Operation timeline for task init_field: ready=29435343 start=29491355 stop=278856003
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Initializing field 0 for block 26...
+Task init_field COMPLETED SUCCESSFULLY
+Operation timeline for task init_field: ready=31167167 start=31289713 stop=283182915
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Initializing field 0 for block 27...
+Task init_field COMPLETED SUCCESSFULLY
+Operation timeline for task init_field: ready=30097034 start=30158738 stop=284663111
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Initializing field 0 for block 28...
+Task init_field COMPLETED SUCCESSFULLY
+Operation timeline for task init_field: ready=32208983 start=32273947 stop=284779885
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Initializing field 0 for block 29...
+Task init_field COMPLETED SUCCESSFULLY
+Operation timeline for task init_field: ready=32535417 start=32590611 stop=286985434
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Task init_field COMPLETED SUCCESSFULLY
+Initializing field 0 for block 30...
+Operation timeline for task init_field: ready=36196609 start=200388895 stop=401948172
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Initializing field 0 for block 31...
+Task init_field COMPLETED SUCCESSFULLY
+Operation timeline for task init_field: ready=36508109 start=213463416 stop=416873810
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Task init_field COMPLETED SUCCESSFULLY
+Operation timeline for task init_field: ready=37099744 start=233915683 stop=434361802
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Task 0 running on proc id 1d00000000000001
+Running slow stencil path for point 0...
+Task 13 running on proc id 1d00000000000007
+Task 11 running on proc id 1d00000000000006
+Running fast stencil path for point 13...
+Task 12 running on proc id 1d00000000000007
+Running fast stencil path for point 11...
+Running fast stencil path for point 12...
+Task init_field COMPLETED SUCCESSFULLY
+Operation timeline for task init_field: ready=37686269 start=234273933 stop=436092487
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Task init_field COMPLETED SUCCESSFULLY
+Operation timeline for task init_field: ready=36776505 start=231738577 stop=436120363
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Task init_field COMPLETED SUCCESSFULLY
+Operation timeline for task init_field: ready=38001998 start=234707798 stop=436176817
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Task init_field COMPLETED SUCCESSFULLY
+Operation timeline for task init_field: ready=38589122 start=237039931 stop=439888395
+Task 1 running on proc id 1d00000000000001
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Running fast stencil path for point 1...
+Task 2 running on proc id 1d00000000000002
+Task init_field COMPLETED SUCCESSFULLY
+Operation timeline for task init_field: ready=38904611 start=237752452 stop=443244084
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Running fast stencil path for point 2...
+Task 6 running on proc id 1d00000000000004
+Task init_field COMPLETED SUCCESSFULLY
+Operation timeline for task init_field: ready=39493382 start=271240542 stop=527972850
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Running fast stencil path for point 6...
+Task 3 running on proc id 1d00000000000002
+Task init_field COMPLETED SUCCESSFULLY
+Operation timeline for task init_field: ready=39803744 start=276864727 stop=533938862
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Running fast stencil path for point 3...
+Task init_field COMPLETED SUCCESSFULLY
+Task 4 running on proc id 1d00000000000003
+Operation timeline for task init_field: ready=41618967 start=284813519 stop=536388615
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Running fast stencil path for point 4...
+Task init_field COMPLETED SUCCESSFULLY
+Operation timeline for task init_field: ready=40397676 start=278893125 stop=537712542
+Task 5 running on proc id 1d00000000000003
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Running fast stencil path for point 5...
+Task 7 running on proc id 1d00000000000004
+Task init_field COMPLETED SUCCESSFULLY
+Operation timeline for task init_field: ready=40712029 start=283223237 stop=541570031
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Running fast stencil path for point 7...
+Task 8 running on proc id 1d00000000000005
+Task init_field COMPLETED SUCCESSFULLY
+Operation timeline for task init_field: ready=41304863 start=284701740 stop=545495464
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Running fast stencil path for point 8...
+Task init_field COMPLETED SUCCESSFULLY
+Task 9 running on proc id 1d00000000000005
+Operation timeline for task init_field: ready=42295824 start=287024450 stop=547904645
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Running fast stencil path for point 9...
+Task init_field COMPLETED SUCCESSFULLY
+Task 10 running on proc id 1d00000000000006
+Operation timeline for task init_field: ready=42585551 start=401990335 stop=607811797
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Running fast stencil path for point 10...
+Task 17 running on proc id 1d00000000000009
+Running fast stencil path for point 17...
+Task init_field COMPLETED SUCCESSFULLY
+Operation timeline for task init_field: ready=42921395 start=416910227 stop=618914423
+Runtime overhead for task init_field: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=237028763 start=436134788 stop=1399028223
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 18 running on proc id 1d00000000000009
+Running fast stencil path for point 18...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=237739280 start=436161614 stop=1404339926
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 14 running on proc id 1d00000000000008
+Running fast stencil path for point 14...
+Task 15 running on proc id 1d00000000000008
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=237742026 start=436218961 stop=1404572246
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 15...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=271230972 start=439933603 stop=1404903813
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 16 running on proc id 1d00000000000008
+Running fast stencil path for point 16...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=213452146 start=434405679 stop=1425753689
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 19 running on proc id 1d0000000000000a
+Running fast stencil path for point 19...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=278884069 start=443283998 stop=1437476731
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 20 running on proc id 1d0000000000000a
+Running fast stencil path for point 20...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=287016716 start=607850900 stop=1596894051
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 21 running on proc id 1d0000000000000b
+Running fast stencil path for point 21...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=434397771 start=618962206 stop=1618332284
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 22 running on proc id 1d0000000000000b
+Running fast stencil path for point 22...
+Task 23 running on proc id 1d0000000000000c
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=283214449 start=528007595 stop=1876457400
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 23...
+Task 24 running on proc id 1d0000000000000c
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=284692528 start=536425084 stop=1877561479
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 24...
+Task 25 running on proc id 1d0000000000000d
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=284804459 start=541607653 stop=1890093679
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 25...
+Task 26 running on proc id 1d0000000000000d
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=284690339 start=533976862 stop=1897772453
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 26...
+Task 27 running on proc id 1d0000000000000e
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=287013211 start=545530704 stop=1909670112
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 27...
+Task 28 running on proc id 1d0000000000000e
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=287015304 start=547940174 stop=1914096494
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 28...
+Task 29 running on proc id 1d0000000000000f
+Running fast stencil path for point 29...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=284693958 start=537749928 stop=1918002249
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=436127642 start=1399454453 stop=2476907802
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 30 running on proc id 1d0000000000000f
+Running fast stencil path for point 30...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=436154717 start=1405097021 stop=2480069845
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 31 running on proc id 1d0000000000000f
+Running slow stencil path for point 31...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=436148137 start=1404526250 stop=2483266602
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=436150659 start=1404654497 stop=2493708777
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=436210983 start=1425863520 stop=2503129544
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=439925500 start=1437599515 stop=2528854672
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=443276366 start=1597061693 stop=2614680915
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=528000341 start=1618451732 stop=2636532832
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=537743114 start=1877602788 stop=2885076029
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=541600786 start=1890146433 stop=2888062357
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=533970122 start=1876501638 stop=2892632027
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=545522853 start=1897813294 stop=2895546775
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=547933325 start=1914139225 stop=2902322442
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=545524364 start=1909711609 stop=2903904277
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=607842791 start=1918038506 stop=2905226955
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=618951960 start=2477007964 stop=2915232830
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=618953984 start=2480132128 stop=2915555293
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+SUCCESS!
+Task check COMPLETED SUCCESSFULLY
+Operation timeline for task check: ready=2915595647 start=2915651211 stop=3811617170
+Runtime overhead for task check: runtime=0.0% wait=0.0%
+Task 0 running on proc id 1d00000000000001
+Running slow stencil path for point 0...
+Task 1 running on proc id 1d00000000000001
+Running fast stencil path for point 1...
+Task 2 running on proc id 1d00000000000002
+Running fast stencil path for point 2...
+Task 3 running on proc id 1d00000000000002
+Running fast stencil path for point 3...
+Task 4 running on proc id 1d00000000000003
+Running fast stencil path for point 4...
+Task 5 running on proc id 1d00000000000003
+Running fast stencil path for point 5...
+Task 6 running on proc id 1d00000000000004
+Running fast stencil path for point 6...
+Task 7 running on proc id 1d00000000000004
+Running fast stencil path for point 7...
+Task 8 running on proc id 1d00000000000005
+Running fast stencil path for point 8...
+Task 9 running on proc id 1d00000000000005
+Running fast stencil path for point 9...
+Task 10 running on proc id 1d00000000000006
+Running fast stencil path for point 10...
+Task 11 running on proc id 1d00000000000006
+Running fast stencil path for point 11...
+Task 12 running on proc id 1d00000000000007
+Running fast stencil path for point 12...
+Task 13 running on proc id 1d00000000000007
+Running fast stencil path for point 13...
+Task 14 running on proc id 1d00000000000008
+Running fast stencil path for point 14...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3814678900 start=3814742149 stop=4851786722
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 16 running on proc id 1d00000000000008
+Running fast stencil path for point 16...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3820079664 start=3820211528 stop=4854434954
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 17 running on proc id 1d00000000000009
+Running fast stencil path for point 17...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3818973098 start=3819030892 stop=4858657516
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 18 running on proc id 1d00000000000009
+Running fast stencil path for point 18...
+Task 19 running on proc id 1d0000000000000a
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3819391969 start=3819511545 stop=4859785618
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 19...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3821152722 start=3821218559 stop=4862909619
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 20 running on proc id 1d0000000000000a
+Running fast stencil path for point 20...
+Task 21 running on proc id 1d0000000000000b
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3820469049 start=3820585340 stop=4863547676
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 21...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3822809500 start=3822862194 stop=4865551035
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 22 running on proc id 1d0000000000000b
+Running fast stencil path for point 22...
+Task 23 running on proc id 1d0000000000000c
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3821554886 start=3821615376 stop=4867564439
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 23...
+Task 24 running on proc id 1d0000000000000c
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3815104384 start=3815157286 stop=5170827129
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 24...
+Task 25 running on proc id 1d0000000000000d
+Running fast stencil path for point 25...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3816152239 start=3816214377 stop=5177298822
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 26 running on proc id 1d0000000000000d
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3817901001 start=3817944770 stop=5181640537
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 26...
+Task 27 running on proc id 1d0000000000000e
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3818280104 start=3818336113 stop=5184998982
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 27...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3817234921 start=3817274359 stop=5197140633
+Task 28 running on proc id 1d0000000000000e
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 28...
+Task 29 running on proc id 1d0000000000000f
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3816837052 start=3816891687 stop=5206313789
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 29...
+Task 30 running on proc id 1d0000000000000f
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3815778097 start=3815833634 stop=5208587238
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 30...
+Task 31 running on proc id 1d0000000000000f
+Running slow stencil path for point 31...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3824617514 start=4858707698 stop=5940198476
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3824237790 start=4854503370 stop=5942661656
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3826748944 start=4865613146 stop=5951844357
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3825296836 start=4859841853 stop=5952847804
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3826363028 start=4863608769 stop=5955882655
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Task 15 running on proc id 1d00000000000008
+Operation timeline for task stencil: ready=3823563245 start=4851886796 stop=5957407507
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 15...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3825675553 start=4862972429 stop=5958171468
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3827440050 start=4867616803 stop=5959052827
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3829640539 start=5185035206 stop=6242817922
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3827830532 start=5170866859 stop=6243695436
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3828538020 start=5177336375 stop=6244038064
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3828944524 start=5181677183 stop=6245128626
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3830038457 start=5197180657 stop=6253290071
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3830867051 start=5206350528 stop=6258270030
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3831256730 start=5208621173 stop=6260731221
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3831679811 start=5940296289 stop=6275687659
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=3823173513 start=4851840048 stop=6277136304
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+SUCCESS!
+Task check COMPLETED SUCCESSFULLY
+Operation timeline for task check: ready=6277164384 start=6277222391 stop=7182317372
+Runtime overhead for task check: runtime=0.0% wait=0.0%
+Task 0 running on proc id 1d00000000000001
+Running slow stencil path for point 0...
+Task 1 running on proc id 1d00000000000001
+Running fast stencil path for point 1...
+Task 2 running on proc id 1d00000000000002
+Running fast stencil path for point 2...
+Task 3 running on proc id 1d00000000000002
+Running fast stencil path for point 3...
+Task 4 running on proc id 1d00000000000003
+Running fast stencil path for point 4...
+Task 5 running on proc id 1d00000000000003
+Running fast stencil path for point 5...
+Task 6 running on proc id 1d00000000000004
+Running fast stencil path for point 6...
+Task 7 running on proc id 1d00000000000004
+Running fast stencil path for point 7...
+Task 8 running on proc id 1d00000000000005
+Running fast stencil path for point 8...
+Task 9 running on proc id 1d00000000000005
+Running fast stencil path for point 9...
+Task 10 running on proc id 1d00000000000006
+Running fast stencil path for point 10...
+Task 11 running on proc id 1d00000000000006
+Running fast stencil path for point 11...
+Task 12 running on proc id 1d00000000000007
+Running fast stencil path for point 12...
+Task 13 running on proc id 1d00000000000007
+Running fast stencil path for point 13...
+Task 14 running on proc id 1d00000000000008
+Running fast stencil path for point 14...
+Task stencil COMPLETED SUCCESSFULLY
+Task 15 running on proc id 1d00000000000008
+Operation timeline for task stencil: ready=7189215278 start=7189292342 stop=8178379129
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 15...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7190313257 start=7190428045 stop=8180229527
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 16 running on proc id 1d00000000000008
+Running fast stencil path for point 16...
+Task 17 running on proc id 1d00000000000009
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7189915522 start=7190036568 stop=8181750835
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 17...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7191020571 start=7191142253 stop=8190673962
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 18 running on proc id 1d00000000000009
+Running fast stencil path for point 18...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7192185820 start=7192243012 stop=8194001034
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 19 running on proc id 1d0000000000000a
+Running fast stencil path for point 19...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7193858716 start=7193907058 stop=8196849752
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 20 running on proc id 1d0000000000000a
+Running fast stencil path for point 20...
+Task 21 running on proc id 1d0000000000000b
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7193055324 start=7193108563 stop=8202223862
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 21...
+Task 22 running on proc id 1d0000000000000b
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7191912566 start=7192028130 stop=8211108792
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 22...
+Task 23 running on proc id 1d0000000000000c
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7185592943 start=7185658666 stop=8497650140
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 23...
+Task 24 running on proc id 1d0000000000000c
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7186025931 start=7186078051 stop=8505032788
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 24...
+Task stencil COMPLETED SUCCESSFULLY
+Task 25 running on proc id 1d0000000000000d
+Operation timeline for task stencil: ready=7188129961 start=7188215765 stop=8531654910
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 25...
+Task 26 running on proc id 1d0000000000000d
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7186701015 start=7186758983 stop=8533566539
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 26...
+Task 27 running on proc id 1d0000000000000e
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7187755597 start=7187813887 stop=8558433345
+Running fast stencil path for point 27...
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 28 running on proc id 1d0000000000000e
+Running fast stencil path for point 28...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7188828028 start=7188876127 stop=8564459272
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 29 running on proc id 1d0000000000000f
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7187067964 start=7187127394 stop=8571913630
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 29...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7195310636 start=8181803335 stop=9271288256
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 30 running on proc id 1d0000000000000f
+Running fast stencil path for point 30...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7194228615 start=8178431961 stop=9272405859
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 31 running on proc id 1d0000000000000f
+Running slow stencil path for point 31...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7194632164 start=8180297932 stop=9274369243
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7195688514 start=8190740799 stop=9282325202
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7196753681 start=8196895833 stop=9287122893
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7196373495 start=8194061933 stop=9292417181
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7197440720 start=8202276657 stop=9296493048
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7197828292 start=8211160663 stop=9309994607
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7198522547 start=8497685049 stop=9544326651
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7198913063 start=8505070919 stop=9553970118
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7199609308 start=8531690916 stop=9555359841
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7200006002 start=8533602761 stop=9558346832
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7201106950 start=8564496040 stop=9567082095
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7200704470 start=8558469522 stop=9568250724
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7201927074 start=8571950066 stop=9570416252
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7202752599 start=9272451025 stop=9595956702
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=7202324912 start=9271342701 stop=9596026855
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+SUCCESS!
+Task check COMPLETED SUCCESSFULLY
+Operation timeline for task check: ready=9596059404 start=9596120495 stop=10501257348
+Runtime overhead for task check: runtime=0.0% wait=0.0%
+Task 0 running on proc id 1d00000000000001
+Running slow stencil path for point 0...
+Task 1 running on proc id 1d00000000000001
+Running fast stencil path for point 1...
+Task 2 running on proc id 1d00000000000002
+Running fast stencil path for point 2...
+Task 3 running on proc id 1d00000000000002
+Running fast stencil path for point 3...
+Task 4 running on proc id 1d00000000000003
+Running fast stencil path for point 4...
+Task 5 running on proc id 1d00000000000003
+Running fast stencil path for point 5...
+Task 6 running on proc id 1d00000000000004
+Running fast stencil path for point 6...
+Task 7 running on proc id 1d00000000000004
+Running fast stencil path for point 7...
+Task 8 running on proc id 1d00000000000005
+Running fast stencil path for point 8...
+Task 9 running on proc id 1d00000000000005
+Running fast stencil path for point 9...
+Task 10 running on proc id 1d00000000000006
+Running fast stencil path for point 10...
+Task 11 running on proc id 1d00000000000006
+Running fast stencil path for point 11...
+Task 12 running on proc id 1d00000000000007
+Running fast stencil path for point 12...
+Task 13 running on proc id 1d00000000000007
+Running fast stencil path for point 13...
+Task 14 running on proc id 1d00000000000008
+Running fast stencil path for point 14...
+Task 15 running on proc id 1d00000000000008
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10506550821 start=10506614552 stop=11441566689
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 15...
+Task 16 running on proc id 1d00000000000008
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10506939041 start=10507008493 stop=11442087966
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 16...
+Task 17 running on proc id 1d00000000000009
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10505865335 start=10505924562 stop=11446798867
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 17...
+Task 18 running on proc id 1d00000000000009
+Running fast stencil path for point 18...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10505478459 start=10505529344 stop=11447449405
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 19 running on proc id 1d0000000000000a
+Running fast stencil path for point 19...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10508032795 start=10508099939 stop=11451314683
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 20 running on proc id 1d0000000000000a
+Running fast stencil path for point 20...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10508742678 start=10508793751 stop=11453333519
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 21 running on proc id 1d0000000000000b
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10507638401 start=10507695607 stop=11470261831
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 21...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10504396783 start=10504484508 stop=11737365347
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 22 running on proc id 1d0000000000000b
+Running fast stencil path for point 22...
+Task 23 running on proc id 1d0000000000000c
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10504806976 start=10504928988 stop=11765159383
+Running fast stencil path for point 23...
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10509828660 start=10509895606 stop=11776699999
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 24 running on proc id 1d0000000000000c
+Running fast stencil path for point 24...
+Task 25 running on proc id 1d0000000000000d
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10509133364 start=10509251203 stop=11779346712
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 25...
+Task 26 running on proc id 1d0000000000000d
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10510215019 start=10510334164 stop=11786923163
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 26...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10511391704 start=10511447130 stop=11799771503
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 27 running on proc id 1d0000000000000e
+Running fast stencil path for point 27...
+Task 28 running on proc id 1d0000000000000e
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10511789198 start=10511842297 stop=11801623773
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 28...
+Task stencil COMPLETED SUCCESSFULLY
+Task 29 running on proc id 1d0000000000000f
+Operation timeline for task stencil: ready=10512596300 start=10512642205 stop=11811949869
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 29...
+Task 30 running on proc id 1d0000000000000f
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10512954400 start=11441603611 stop=12388078615
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 30...
+Task 31 running on proc id 1d0000000000000f
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10513351107 start=11442124972 stop=12393581801
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running slow stencil path for point 31...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10514401012 start=11447485517 stop=12396337338
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10515453270 start=11453369854 stop=12402212425
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10514019125 start=11446835484 stop=12404168458
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10515070051 start=11451351349 stop=12405198335
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10516129679 start=11470298741 stop=12433967813
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10516521605 start=11737417861 stop=12780600628
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10517606826 start=11776760781 stop=12804241445
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10517215353 start=11765218784 stop=12804659455
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10518301566 start=11779403871 stop=12809029267
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10518696691 start=11786976942 stop=12814410512
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10519792772 start=11801673648 stop=12819970017
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10519392836 start=11799839987 stop=12820828919
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10520609369 start=11811998123 stop=12822713688
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10521000623 start=12388109275 stop=12831155684
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=10521434504 start=12393612827 stop=12832406088
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+SUCCESS!
+Task check COMPLETED SUCCESSFULLY
+Operation timeline for task check: ready=12832430322 start=12832465709 stop=13749494464
+Runtime overhead for task check: runtime=0.0% wait=0.0%
+Task 0 running on proc id 1d00000000000001
+Running slow stencil path for point 0...
+Task 1 running on proc id 1d00000000000001
+Running fast stencil path for point 1...
+Task 2 running on proc id 1d00000000000002
+Running fast stencil path for point 2...
+Task 3 running on proc id 1d00000000000002
+Running fast stencil path for point 3...
+Task 4 running on proc id 1d00000000000003
+Running fast stencil path for point 4...
+Task 5 running on proc id 1d00000000000003
+Running fast stencil path for point 5...
+Task 6 running on proc id 1d00000000000004
+Running fast stencil path for point 6...
+Task 7 running on proc id 1d00000000000004
+Running fast stencil path for point 7...
+Task 8 running on proc id 1d00000000000005
+Running fast stencil path for point 8...
+Task 9 running on proc id 1d00000000000005
+Running fast stencil path for point 9...
+Task 10 running on proc id 1d00000000000006
+Running fast stencil path for point 10...
+Task 11 running on proc id 1d00000000000006
+Running fast stencil path for point 11...
+Task 12 running on proc id 1d00000000000007
+Running fast stencil path for point 12...
+Task 13 running on proc id 1d00000000000007
+Running fast stencil path for point 13...
+Task 14 running on proc id 1d00000000000008
+Running fast stencil path for point 14...
+Task 15 running on proc id 1d00000000000008
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13752613827 start=13752679148 stop=14665998095
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 15...
+Task 16 running on proc id 1d00000000000008
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13753027370 start=13753086625 stop=14676268875
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 16...
+Task 17 running on proc id 1d00000000000009
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13754747320 start=13754813254 stop=14691800090
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 17...
+Task stencil COMPLETED SUCCESSFULLY
+Task 18 running on proc id 1d00000000000009
+Operation timeline for task stencil: ready=13756923814 start=13756984752 stop=14698707310
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 18...
+Task 19 running on proc id 1d0000000000000a
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13755137213 start=13755207893 stop=14702450992
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 19...
+Task 20 running on proc id 1d0000000000000a
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13755832619 start=13755910554 stop=14715540217
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 20...
+Task 21 running on proc id 1d0000000000000b
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13756236137 start=13756287055 stop=14719742813
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 21...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13753701175 start=13753810845 stop=15009906880
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 23 running on proc id 1d0000000000000c
+Running fast stencil path for point 23...
+Task 24 running on proc id 1d0000000000000c
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13754086805 start=13754155022 stop=15016851132
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 24...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13758005845 start=13758128394 stop=15029084905
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 25 running on proc id 1d0000000000000d
+Running fast stencil path for point 25...
+Task 26 running on proc id 1d0000000000000d
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13758869813 start=13758984864 stop=15038036456
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 26...
+Task 27 running on proc id 1d0000000000000e
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13757307874 start=13757421691 stop=15038528942
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 27...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13759578954 start=13759641830 stop=15047315899
+Task 28 running on proc id 1d0000000000000e
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 28...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13760771275 start=13760817845 stop=15066997815
+Task 29 running on proc id 1d0000000000000f
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 29...
+Task 30 running on proc id 1d0000000000000f
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13759962590 start=13760019779 stop=15071043515
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 30...
+Task 31 running on proc id 1d0000000000000f
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13761130934 start=14666034557 stop=15615497171
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running slow stencil path for point 31...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13761520829 start=14676304645 stop=15624964492
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13762195744 start=14691836108 stop=15635314578
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13762573336 start=14698743632 stop=15649840945
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13763250523 start=14702486959 stop=15657563359
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13763630977 start=14715576530 stop=15667598784
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13764314416 start=14719781089 stop=15679362758
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Task 22 running on proc id 1d0000000000000b
+Operation timeline for task stencil: ready=13765396286 start=15010001782 stop=16002511648
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 22...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13765787936 start=15016904060 stop=16006915809
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13766479058 start=15029137486 stop=16011332307
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13767571986 start=15038581993 stop=16014573149
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13766874202 start=15038090342 stop=16015760922
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13767974403 start=15047364593 stop=16021311440
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13768788914 start=15067046216 stop=16025124383
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13769180205 start=15071089665 stop=16025774522
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13769616736 start=15615529413 stop=16048493777
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=13764700968 start=15009958132 stop=16066957363
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+SUCCESS!
+Task check COMPLETED SUCCESSFULLY
+Operation timeline for task check: ready=16066985534 start=16067028262 stop=16973967515
+Runtime overhead for task check: runtime=0.0% wait=0.0%
+Task 0 running on proc id 1d00000000000001
+Running slow stencil path for point 0...
+Task 1 running on proc id 1d00000000000001
+Running fast stencil path for point 1...
+Task 2 running on proc id 1d00000000000002
+Running fast stencil path for point 2...
+Task 3 running on proc id 1d00000000000002
+Running fast stencil path for point 3...
+Task 4 running on proc id 1d00000000000003
+Running fast stencil path for point 4...
+Task 5 running on proc id 1d00000000000003
+Running fast stencil path for point 5...
+Task 6 running on proc id 1d00000000000004
+Running fast stencil path for point 6...
+Task 7 running on proc id 1d00000000000004
+Running fast stencil path for point 7...
+Task 8 running on proc id 1d00000000000005
+Running fast stencil path for point 8...
+Task 9 running on proc id 1d00000000000005
+Running fast stencil path for point 9...
+Task 10 running on proc id 1d00000000000006
+Running fast stencil path for point 10...
+Task 11 running on proc id 1d00000000000006
+Running fast stencil path for point 11...
+Task 12 running on proc id 1d00000000000007
+Running fast stencil path for point 12...
+Task 13 running on proc id 1d00000000000007
+Running fast stencil path for point 13...
+Task 14 running on proc id 1d00000000000008
+Running fast stencil path for point 14...
+Task 15 running on proc id 1d00000000000008
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16979678623 start=16979799654 stop=17923180369
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 15...
+Task 16 running on proc id 1d00000000000008
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16984440472 start=16984499782 stop=17927242486
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 16...
+Task 17 running on proc id 1d00000000000009
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16985517968 start=16985575390 stop=17928366662
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 17...
+Task 18 running on proc id 1d00000000000009
+Task stencil COMPLETED SUCCESSFULLY
+Running fast stencil path for point 18...
+Operation timeline for task stencil: ready=16984063264 start=16984129445 stop=17932426989
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Task 19 running on proc id 1d0000000000000a
+Operation timeline for task stencil: ready=16980757600 start=16980868285 stop=17933623259
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 19...
+Task 20 running on proc id 1d0000000000000a
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16985120283 start=16985180886 stop=17942137356
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 20...
+Task 21 running on proc id 1d0000000000000b
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16986333188 start=16986377383 stop=17961302984
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 21...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16978141216 start=16978221607 stop=18233039460
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 22 running on proc id 1d0000000000000b
+Running fast stencil path for point 22...
+Task 23 running on proc id 1d0000000000000c
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16978598394 start=16978667075 stop=18235579965
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 23...
+Task 24 running on proc id 1d0000000000000c
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16979290032 start=16979347586 stop=18266912496
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 24...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16981835691 start=16981902640 stop=18272074167
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 25 running on proc id 1d0000000000000d
+Running fast stencil path for point 25...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16982542485 start=16982601631 stop=18275449738
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task 26 running on proc id 1d0000000000000d
+Running fast stencil path for point 26...
+Task 27 running on proc id 1d0000000000000e
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16981456346 start=16981521392 stop=18276598649
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 27...
+Task 28 running on proc id 1d0000000000000e
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16980364362 start=16980423852 stop=18283206115
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 28...
+Task 29 running on proc id 1d0000000000000f
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16982923942 start=16982976393 stop=18286624133
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 29...
+Task 30 running on proc id 1d0000000000000f
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16988142882 start=17932463078 stop=18874646855
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running fast stencil path for point 30...
+Task 31 running on proc id 1d0000000000000f
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16986693755 start=17923221578 stop=18878777742
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Running slow stencil path for point 31...
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16987084031 start=17927276057 stop=18881012123
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16987766476 start=17928407285 stop=18887555908
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16988831549 start=17933660273 stop=18892781869
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16989219971 start=17942172725 stop=18909036386
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16989907924 start=17961336188 stop=18925176832
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16991005589 start=18235633200 stop=19287907552
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16990302248 start=18233110888 stop=19293538191
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16992107374 start=18272136392 stop=19305147944
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16991406963 start=18266966984 stop=19305996794
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16992513930 start=18275508459 stop=19306865259
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16994460842 start=18286679770 stop=19312289033
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16993630692 start=18283266245 stop=19313820967
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16993225265 start=18276652254 stop=19313876830
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16994853719 start=18874677868 stop=19323480012
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+Task stencil COMPLETED SUCCESSFULLY
+Operation timeline for task stencil: ready=16995291268 start=18878808628 stop=19323838554
+Runtime overhead for task stencil: runtime=0.0% wait=0.0%
+SUCCESS!
+Task check COMPLETED SUCCESSFULLY
+Operation timeline for task check: ready=19323861961 start=19323909000 stop=20230037812
+Runtime overhead for task check: runtime=0.0% wait=0.0%
+The timestep start times are:
+1521527557478041
+1521527561267343
+1521527564638005
+1521527567956941
+1521527571205190
+1521527574429756
+Task top_level COMPLETED SUCCESSFULLY
+Operation timeline for task top_level: ready=21841549 start=21905818 stop=20230227980
+Runtime overhead for task top_level: runtime=0.0% wait=100.0%

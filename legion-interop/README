@@ -1,0 +1,47 @@
+This folder is added in support of the Exascale Computing Project's
+sub-project titled WBS2.3.1.12 STPM14-Runtime System for Application-Level Power Steering.
+
+=======================
+Authors:
+=======================
+* Samuel Cotter and David Lowenthal, University of Arizona
+* Tapasya Patki (PI), Aniruddha Marathe, and Barry Rountree, Lawrence Livermore National Laboratory
+* GEOPM and Legion teams
+
+
+=======================
+High-level Overview:
+=======================
+As part of the ECP Power Steering project, our goal is to address 
+the challenge of optimizing application performance at exascale under 
+power and energy constraints while accounting for dynamic behavior of applications, 
+processor variability, and component heterogeneity. Thus, we intend to:
+
+* Develop a production-grade, industry-supported, open-source, job-level 
+runtime system suitable for integration with resource manager and ECP software stack
+* Integrate existing research efforts, including Conductor and Adagio, 
+into the Intel GEOPM runtime system project via advanced plugins
+* Implement algorithms to analyze critical path, balance power between components, 
+and support upcoming architectures and task-based programming models. 
+
+=======================
+Instructions
+=======================
+
+Follow Legion and GEOPM installation instructions to get an initial setup. 
+Intel GEOPM can be found at: https://github.com/geopm/geopm
+Legion can be found at: https://github.com/StanfordLegion/legion
+
+1. Edit the env.sh file to have the path to your geo install directory.
+2. Edit the build.sh file to have the path to gasnet.
+3. You might need to do a make clean here. Copy the make line from build.sh, add 'clean' to the end and run that.
+4. ./build.sh
+5. ./run.sh
+
+This uses two power policy json files from the geo tutorials and two reports should be produced.
+
+We extended the base mpi_interop application from Legion to add computation that is relevant for a test application for ECP and for testing power management. GEOPM markup calls, geo_prof_enter() and geo_prof_exit(), have been added to this new application. These markup calls have been placed around both the legion tasks that associate with mpi tasks and in the children of those tasks. The regions are named according to the rank a task associates with or the rank its parent associates with.
+
+Initial results from the Quartz cluster, along with a plotting script and associated graphs are in the early-results folder. 
+
+
